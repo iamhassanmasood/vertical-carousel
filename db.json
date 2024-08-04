@@ -1,0 +1,64 @@
+{
+  "dummydata": [
+    {
+      "id": 0,
+      "header": "THE LION & THE MOUSE",
+      "body": "A Lion lay asleep in the forest, when a little Mouse came upon him unexpectedly...",
+      "color": "#4A90E2"
+    },
+    {
+      "id": 1,
+      "header": "THE TORTOISE AND THE HARE",
+      "body": "Once, a Tortoise challenged a Hare to a race. The Hare laughed at the idea of being outrun...",
+      "color": "#EAB543"
+    },
+    {
+      "id": 2,
+      "header": "THE FOX AND THE CROW",
+      "body": "A Crow was sitting on a branch with a piece of cheese in her beak. A hungry Fox saw her...",
+      "color": "#F39C12"
+    },
+    {
+      "id": 3,
+      "header": "THE ANT AND THE GRASSHOPPER",
+      "body": "In a field one summer's day a Grasshopper was hopping about, singing and chirping...",
+      "color": "#D35400"
+    },
+    {
+      "id": 4,
+      "header": "THE BOY WHO CRIED WOLF",
+      "body": "There once was a shepherd boy who cried out that a wolf was attacking his sheep, but it was a lie...",
+      "color": "#8E44AD"
+    },
+    {
+      "id": 5,
+      "header": "THE CAT AND THE MICE",
+      "body": "A Cat laid a trap for some Mice, but they were clever and managed to escape every time...",
+      "color": "#2980B9"
+    },
+    {
+      "id": 6,
+      "header": "THE DOG AND HIS REFLECTION",
+      "body": "A Dog, looking into a river, saw his own reflection and thought it was another Dog with a bigger bone...",
+      "color": "#C5E1A5"
+    },
+    {
+      "id": 7,
+      "header": "THE CANDLE AND THE WIND",
+      "body": "A Candle stayed strong against the Wind, but the Wind blew fiercely, and the Candle flickered out...",
+      "color": "#FF5733"
+    },
+    {
+      "id": 8,
+      "header": "THE FROG AND THE OX",
+      "body": "A Frog saw an Ox and wanted to make himself as big as the Ox. He puffed up until he burst...",
+      "color": "#9B59B6"
+    },
+    {
+      "id": 9,
+      "header": "THE WOLF AND THE LAMB",
+      "body": "A hungry Wolf spotted a Lamb and devised a plan to catch him, only to find himself challenged...",
+      "color": "#1ABC9C"
+    }
+  ]
+}
